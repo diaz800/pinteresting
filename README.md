@@ -4,4 +4,4 @@ This is the pinteresting sample application for
 [*One Month Rails*](http://onemonthrails.com
 )
 
-by [Adrian Diaz](http:www.mr.diaz800.com)
+by [Adrian Diaz](http:www.mrdiaz800.com)
